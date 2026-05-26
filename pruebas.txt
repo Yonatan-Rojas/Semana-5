@@ -1,0 +1,11 @@
+Prueba 1:
+
+Al entrar a la ruta / aparece el mensaje "Servidor activo".
+
+Prueba 2:
+
+Al entrar a /saludo aparece el mensaje "Hola comunidad".
+
+Prueba 3:
+
+Al entrar a /mensaje/aparece el mensaje "Hola Yonatan".
