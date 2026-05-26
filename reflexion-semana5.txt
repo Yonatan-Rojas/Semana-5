@@ -1,0 +1,18 @@
+Escribe un texto de 8 a 10 líneas 
+
+Respuesta: 
+
+Yo pienso que las APIs pueden ayudar mucho a las
+comunidades porque permiten compartir información de una
+forma más rápida y organizada. Por ejemplo, una persona
+podría enviar un reporte, una alerta o un mensaje desde una
+aplicación y esa información llegaría directamente al sistema
+también ayudarían a que los datos no se pierdan y se
+mantengan ordenados. Me parece útil porque la comunicacion
+sería más sencilla y las personas podrían recibir informacion
+importante a tiempo. Además las APIs permiten conectar
+diferentes herramientas o aplicaciones para trabajar juntas
+Esto ayudaría a que la comunidad tenga una mejor organización
+y pueda responder más rápido a situaciones o problemas
+también facilitaría la participación de las personas y
+el intercambio de información importante para todos.
