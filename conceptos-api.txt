@@ -1,0 +1,13 @@
+Explica en el archivo conceptos-api.txt:
+
+Qué hace esta ruta.
+Para qué podría servir en una aplicación comunitaria.
+
+
+Respuestas:
+
+La ruta /reporte recibe un mensaje enviado por el usuario
+y responde confirmando que fue recibido.
+
+Podría servir en una aplicación comunitaria para enviar reportes
+avisos o mensajes de los integrantes de la comunidad.
